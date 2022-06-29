@@ -1,0 +1,7 @@
+D:\addnofno\AddnOfNumbers\AddnOfNumbers\bin\Debug\AddnOfNumbers.exe.config
+D:\addnofno\AddnOfNumbers\AddnOfNumbers\bin\Debug\AddnOfNumbers.exe
+D:\addnofno\AddnOfNumbers\AddnOfNumbers\bin\Debug\AddnOfNumbers.pdb
+D:\addnofno\AddnOfNumbers\AddnOfNumbers\obj\Debug\AddnOfNumbers.csproj.AssemblyReference.cache
+D:\addnofno\AddnOfNumbers\AddnOfNumbers\obj\Debug\AddnOfNumbers.csproj.CoreCompileInputs.cache
+D:\addnofno\AddnOfNumbers\AddnOfNumbers\obj\Debug\AddnOfNumbers.exe
+D:\addnofno\AddnOfNumbers\AddnOfNumbers\obj\Debug\AddnOfNumbers.pdb
